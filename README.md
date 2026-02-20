@@ -46,7 +46,7 @@ Para evitar descargas no autorizadas, este plugin utiliza un permiso (*capabilit
 4. Ve a **Administración del sitio > Notificaciones**.
 5. Haz clic en el botón **"Actualizar base de datos Moodle ahora"** para instalar el plugin y registrar los nuevos permisos.
 
-## 🛠️ Uso del Plugin
+## 🛠️ Uso del Plugin.
 
 1. En tu panel de Moodle, navega a **Administración del sitio > Informes > Descarga Masiva de Certificados**.
 2. Ingresa el **Nombre de usuario (Username)** o el **Correo electrónico (Email)** del alumno.
